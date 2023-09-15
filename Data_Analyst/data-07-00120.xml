@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.3 20210610//EN" "JATS-journalpublishing1-3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="other" dtd-version="1.3" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">data</journal-id>
+      <journal-title-group>
+        <journal-title>Data</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Data</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Data</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2306-5729</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/data7090120</article-id>
+      <article-id pub-id-type="publisher-id">data-07-00120</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Data Descriptor</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>A Dataset for the Vietnamese Banking System (2002&#x2013;2021)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5629-5288</contrib-id>
+          <name>
+            <surname>Le</surname>
+            <given-names>Tu D. Q.</given-names>
+          </name>
+          <xref rid="af1-data-07-00120" ref-type="aff">1</xref>
+          <xref rid="af2-data-07-00120" ref-type="aff">2</xref>
+          <xref rid="c1-data-07-00120" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-5291-1653</contrib-id>
+          <name>
+            <surname>Ho</surname>
+            <given-names>Tin H.</given-names>
+          </name>
+          <xref rid="af1-data-07-00120" ref-type="aff">1</xref>
+          <xref rid="af2-data-07-00120" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-6090-8067</contrib-id>
+          <name>
+            <surname>Ngo</surname>
+            <given-names>Thanh</given-names>
+          </name>
+          <xref rid="af3-data-07-00120" ref-type="aff">3</xref>
+          <xref rid="af4-data-07-00120" ref-type="aff">4</xref>
+          <xref rid="c1-data-07-00120" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Nguyen</surname>
+            <given-names>Dat T.</given-names>
+          </name>
+          <xref rid="af1-data-07-00120" ref-type="aff">1</xref>
+          <xref rid="af2-data-07-00120" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tran</surname>
+            <given-names>Son H.</given-names>
+          </name>
+          <xref rid="af1-data-07-00120" ref-type="aff">1</xref>
+          <xref rid="af2-data-07-00120" ref-type="aff">2</xref>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Guijarro</surname>
+            <given-names>Francisco</given-names>
+          </name>
+          <role>Academic Editor</role>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-data-07-00120"><label>1</label>University of Economics and Law, Ho Chi Minh City 700000, Vietnam</aff>
+      <aff id="af2-data-07-00120"><label>2</label>Vietnam National University, Ho Chi Minh City 700000, Vietnam</aff>
+      <aff id="af3-data-07-00120"><label>3</label>School of Aviation, Massey University, Palmerston North 4442, New Zealand</aff>
+      <aff id="af4-data-07-00120"><label>4</label>University of Economics &amp; Business, Vietnam National University, Hanoi 10000, Vietnam</aff>
+      <author-notes>
+        <corresp id="c1-data-07-00120"><label>*</label>Correspondence: <email>tuldq@uel.edu.vn</email> (T.D.Q.L.); <email>t.ngo@massey.ac.nz</email> (T.N.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>25</day>
+        <month>08</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>09</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>7</volume>
+      <issue>9</issue>
+      <elocation-id>120</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>05</month>
+          <year>2022</year>
+        </date>
+        <date date-type="accepted">
+          <day>22</day>
+          <month>08</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2022 by the authors.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>This data article describes a dataset that consists of key statistics on the activities of 45 Vietnamese banks (e.g., deposits, loans, assets, and labor productivity), operated during the 2002&#x2013;2021 period, yielding a total of 644 bank-year observations. This is the first systematic compilation of data on the splits of state vs. private ownership, foreign vs. domestic banks, commercial vs. policy banks, and listed vs. nonlisted banks. Consequently, this arrives at a unique set of variables and indicators that allow us to capture the development and performance of the Vietnamese banking sector over time along many different dimensions. This can play an important role for financial analysts, researchers, and educators in banking efficiency and performance, risk and profit/revenue management, machine learning, and other fields.</p>
+        <p>
+          <bold>Dataset:</bold>
+          <uri>https://doi.org/10.7910/DVN/RIWA3B</uri>
+        </p>
+        <p><bold>Dataset License:</bold> CC0</p>
+      </abstract>
+      <kwd-group>
+        <kwd>financial</kwd>
+        <kwd>banking</kwd>
+        <kwd>Vietnam</kwd>
+        <kwd>ratio</kwd>
+        <kwd>key performance indicators (KPIs)</kwd>
+        <kwd>efficiency</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>the University of Economics and Law, Vietnam National University</funding-source>
+        </award-group>
+        <funding-statement>This research was funded by the University of Economics and Law, Vietnam National University, Ho Chi Minh City, Vietnam.</funding-statement>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-data-07-00120">
+      <title>1. Summary</title>
+      <p>Since its entry into the World Trade Organization (WTO) in 2007, Vietnam has boasted one of the fastest-growing emerging economies in the world, with an average of more than 6% gross-domestic-product (GDP) growth per year in real terms [<xref ref-type="bibr" rid="B1-data-07-00120">1</xref>]. Because of its relatively underdeveloped capital markets [<xref ref-type="bibr" rid="B2-data-07-00120">2</xref>], the Vietnamese banking system acts as a backbone of the economy [<xref ref-type="bibr" rid="B3-data-07-00120">3</xref>,<xref ref-type="bibr" rid="B4-data-07-00120">4</xref>], and it contributes from 16% to 18% toward the annual GDP [<xref ref-type="bibr" rid="B5-data-07-00120">5</xref>]. Consequently, the Vietnamese banking system&#x2019;s efficiency and performance have recently been the main interest of many analysts and researchers. However, it is difficult for researchers, and especially foreign scholars, to conduct studies on the Vietnamese banking system due to its data limitation. For instance, the authors of [<xref ref-type="bibr" rid="B6-data-07-00120">6</xref>] showed that, during the last decade, there were only 27 published articles on the performance of Vietnamese banks.</p>
+      <p>There are some great databases provided by Bankscope or the Banker association, but such databases focus more on advanced markets, such as the United States or European countries, and have fewer observations on Vietnamese banks. Additionally, the Thomson Reuter Eikon database also provides data information on the listed banks in Vietnam. More importantly, the subscription fees for these databases are not cheap for academic researchers or educators. This data article introduces a free and new dataset that provides financial analysts and researchers with a comprehensive assessment of the performance of the Vietnamese banking system. This dataset provides key statistics on the activities of 45 Vietnamese banks (e.g., deposits, loans, assets, and labor productivity), operated during the 2002&#x2013;2021 period, yielding a total of 644 bank-year observations. The dataset will thus enable financial analysts and researchers to compare the performances of banks for a given year and over time.</p>
+      <p>This new dataset draws on a wider array of variables and key performance indicators (KPIs) of the activities and efficiency of a much broader set of banking institutions, trying to cover all the banks that have been operating in the Vietnamese banking system (2002&#x2013;2021). Specifically, this is the first systematic compilation of data on the split of state vs. private ownership, foreign vs. domestic banks, commercial vs. policy banks, and listed vs. nonlisted banks. Consequently, this arrives at a unique set of indicators that allows us to capture the development and structure of the Vietnamese banking sector over time along many different dimensions. This can play an important role for financial analysts, researchers, and educators in banking efficiency and performance, risk and profit/revenue management, machine learning, and other fields, and especially regarding the Vietnamese banking sector.</p>
+    </sec>
+    <sec id="sec2-data-07-00120">
+      <title>2. Data Description</title>
+      <p>The dataset is a CSV file with nine sheets consisting of the data, information about the dataset, a list of the banks involved, a list of variables, the data availability, a list of banks that are state-owned, a list of banks that are private-owned, a list of banks that are foreign-owned, and a list of policy banks.</p>
+      <p>The data itself were manually extracted from the annual and financial reports of each of the 45 banks involved in our dataset; some of them were merged during the restructuring period of 2011&#x2013;2015 [<xref ref-type="bibr" rid="B7-data-07-00120">7</xref>] (see also the Banks list of our dataset). As of 31 March 2022, there were a total of 46 commercial banks operating in the Vietnamese banking sector [<xref ref-type="bibr" rid="B8-data-07-00120">8</xref>] (see also the lists of banks with different types of ownership in our dataset). Because our 2021 data, for example, cover a total of 22 banks, including the so-called &#x201C;Big Four&#x201D; (i.e., AGB, BIDV, CTG, and VCB (see <xref ref-type="table" rid="data-07-00120-t001">Table 1</xref>)) that are dominating the Vietnamese banking sector and that account for 74.03% of the total assets of the whole sector (the same figures for 2020 are 32 banks and 85.47%), our dataset is a good representative of the Vietnamese banking sector. Such data consist of popular (but important) information on the number of employees, number of bank branches, total deposits, total loans, costs, profits, etc., of the bank. More details are presented below. We ended up with 644 bank-year observations, as reported in <xref ref-type="table" rid="data-07-00120-t001">Table 1</xref>.</p>
+      <p>At first sight, the numbers of variables and indicators for the performances of Vietnamese banks are countless. We, however, focus more on common indicators that represent the efficiency of a bank by using its inputs to produce outputs, which is in line with the banking-efficiency literature [<xref ref-type="bibr" rid="B9-data-07-00120">9</xref>,<xref ref-type="bibr" rid="B10-data-07-00120">10</xref>].</p>
+      <p>In the banking-efficiency literature, there are two main approaches to choosing a bank&#x2019;s input and output factors: the production and intermediation approaches [<xref ref-type="bibr" rid="B11-data-07-00120">11</xref>]. The production approach sees the banks as financial institutions that primarily produce services for account holders. Consequently, the inputs include physical factors such as capital, labor, loan applications, credit reports, checks, or other payment instruments, while the number and type of transactions, documents processed over a given time, and number of deposit or loan accounts are referred to as outputs [<xref ref-type="bibr" rid="B9-data-07-00120">9</xref>]. Except for variables in Vietnamese dongs (VND), the only available physical variables of Vietnamese banks are the number of employees (NE) and number of branches (NB). We argue that the number of branches is highly correlated with the number of accounts that a bank can provide to its customers. The corresponding indicators are labor productivity (LPROD) and network productivity (NPROD), which are measured by the total incomes (TIs) over the NE and NB, respectively [<xref ref-type="bibr" rid="B12-data-07-00120">12</xref>,<xref ref-type="bibr" rid="B13-data-07-00120">13</xref>]. Additionally, the indicators for the relative size between a certain bank and the whole banking system in a certain year are also calculated, namely, the employees ratio (ER) (computed as the bank&#x2019;s number of employees over the total employees of all banks in the same year across the sample) and the branches ratio (BR) (computed as the bank&#x2019;s number of branches over the total number of branches of all banks in the same year across the sample). It is noted that our database covers from a low of 11 banks in 2002 to a high of 43 banks in 2008&#x2013;2010, of which the four state-owned commercial banks (SOCBs) are always included so that it is a good representative of the whole Vietnamese banking system. For example, in the 2003&#x2013;2010 period, the average deposits and credit shares of only twelve banks in our database already accounted for 96.3% and 65.1%, respectively, of the total domestic deposits and credit [<xref ref-type="bibr" rid="B2-data-07-00120">2</xref>]. In this sense, the total employees of all the banks included in this database can represent the total employees of the whole banking sector; a similar argument applies to the total number of branches.</p>
+      <p>In contrast, the intermediation approach sees banks as intermediaries that transfer funds between savers and investors. Specifically, banks collect deposits and purchase funds to intermediate them into loans and other assets. In this sense, the bank&#x2019;s assets can be treated as outputs, while its liabilities can be treated as inputs. Common variables, according to the banking-efficiency literature, include total deposits and total shareholder&#x2019;s equity on the input side, and total loans, total fixed assets, other earning assets, as well as total assets on the output side [<xref ref-type="bibr" rid="B11-data-07-00120">11</xref>,<xref ref-type="bibr" rid="B14-data-07-00120">14</xref>,<xref ref-type="bibr" rid="B15-data-07-00120">15</xref>]. Similar to the production approach, we also calculate the indicators for the total-deposits ratio (computed as the bank&#x2019;s total deposits over the total deposits of all banks in the same year across the sample), the total-loans ratio (computed as the bank&#x2019;s total loans over the total loans of all banks in the same year across the sample), and the total-assets ratio (computed as the bank&#x2019;s total assets over the total assets of all banks in the same year across the sample). Note that these indicators can also be used to measure the sensitivity to market risk of the CAMELS rating system, described below.</p>
+      <p>Avkiran [<xref ref-type="bibr" rid="B16-data-07-00120">16</xref>] and Avkiran and Cai [<xref ref-type="bibr" rid="B17-data-07-00120">17</xref>] proposed the core profit model (CPM), which is based on the intermediation approach, but specifically focuses on the costs (inputs) and revenues/profits (outputs). They argued that a bank is not different from other firms in the sense that it too aims for profit maximization. Therefore, a bank will need to minimize its interest expenses and noninterest expenses (inputs), and maximize its interest incomes, noninterest incomes, as well as total income (outputs). These variables were also used in [<xref ref-type="bibr" rid="B18-data-07-00120">18</xref>,<xref ref-type="bibr" rid="B19-data-07-00120">19</xref>,<xref ref-type="bibr" rid="B20-data-07-00120">20</xref>,<xref ref-type="bibr" rid="B21-data-07-00120">21</xref>], among other studies, and they can even be mixed in a broader view of the intermediation approach: a bank is a &#x201C;black box&#x201D; that converts inputs into outputs [<xref ref-type="bibr" rid="B14-data-07-00120">14</xref>]. Additionally, one can also use the personnel expenses (payments on labor), occupancy expenses (payments on fixed assets), and total operating expenses (payments on labor, fixed assets, and other operating activities) as inputs to capture the costs of the banks. Following Ngo and Tripe [<xref ref-type="bibr" rid="B22-data-07-00120">22</xref>], who pointed out that the results from banking-efficiency analyses are sensitive to the choice of the expenses/costs, we also calculate the core cost (equal to the sum of interest expenses, personnel expenses, and occupancy expenses) and total cost (equal to the sum of interest expenses, personnel expenses, and other noninterest expenses) for each bank. Consequently, the indicators of the core-cost ratio (computed as the bank&#x2019;s core cost over the total core costs of all banks in the same year across the sample) and the total-cost ratio (computed as the bank&#x2019;s total cost over the total costs of all banks in the same year across the sample) are also calculated.</p>
+      <p>Another approach, which is more popular with bank managers, evaluates the efficiency and performance of banks based on their soundness. The CAMELS rating system rates individual banks according to their financial condition in six aspects: capital adequacy, asset quality, management quality, earnings ability, liquidity, and sensitivity to market risks. It is believed that the CAMELS rating system is &#x201C;an effective internal supervisory tool for evaluating the soundness of financial institutions on a uniform basis and for identifying those institutions requiring special attention or concern&#x201D; [<xref ref-type="bibr" rid="B23-data-07-00120">23</xref>]. Alongside the total-assets ratio calculated above, we computed another eleven indicators to represent the six categories of the CAMELS rating system based on their popularity in the literature: the equity over total assets, equity over total deposits, nonperforming-loans ratio (over total loans), loan-loss-provisions ratio (over total loans), returns over assets, returns over equity, net interest margin, cost&#x2013;income ratio, liquid assets over total assets, liquid assets over total deposits, and cumulative gaps over total assets.</p>
+      <p>Recent banking studies also analyze the role of off-balance-sheet (OBS) activities [<xref ref-type="bibr" rid="B24-data-07-00120">24</xref>,<xref ref-type="bibr" rid="B25-data-07-00120">25</xref>], as the exclusion of OBS may lead to biases in the assessment of the bank performance. Consequently, we also provide additional information on OBS values as well as the banks&#x2019; profits (before and after taxes) in the database. Note that the value of the profits before tax and the difference between the total income and total cost are not the same, due to the banks often adjusting for some provisions before tax. The list of our variables is presented in <xref ref-type="table" rid="data-07-00120-t002">Table 2</xref>.</p>
+    </sec>
+    <sec id="sec3-data-07-00120" sec-type="methods">
+      <title>3. Methods</title>
+      <p>The data were manually extracted from the annual and financial reports of each of the 45 banks involved in our dataset. As of 31 March 2022, after the restructuring, as well as mergers and acquisitions, there were a total of 46 commercial banks operating in the Vietnamese banking sector [<xref ref-type="bibr" rid="B8-data-07-00120">8</xref>]. Such data consist of popular (but important) information on the number of employees, number of bank branches, total deposits, total loans, costs, profits, etc., of the bank. Other variables, such as the employees ratio (ERATIO), total-deposits ratio (DEPORATIO), and nonperforming-loans ratio (NPLRATIO), were computed by the authors, as previously explained. </p>
+    </sec>
+    <sec id="sec4-data-07-00120">
+      <title>4. User Notes</title>
+      <list list-type="bullet">
+        <list-item>
+          <p>The dataset can be used by other researchers to examine the development and efficiency/performance of Vietnamese banks (2002&#x2013;2021), including their total factor productivity (TFP), or technological changes over time [<xref ref-type="bibr" rid="B26-data-07-00120">26</xref>,<xref ref-type="bibr" rid="B27-data-07-00120">27</xref>,<xref ref-type="bibr" rid="B28-data-07-00120">28</xref>,<xref ref-type="bibr" rid="B29-data-07-00120">29</xref>]. For example, one can employ data envelopment analysis (DEA) [<xref ref-type="bibr" rid="B30-data-07-00120">30</xref>,<xref ref-type="bibr" rid="B31-data-07-00120">31</xref>,<xref ref-type="bibr" rid="B32-data-07-00120">32</xref>,<xref ref-type="bibr" rid="B33-data-07-00120">33</xref>,<xref ref-type="bibr" rid="B34-data-07-00120">34</xref>] or stochastic frontier analysis (SFA) [<xref ref-type="bibr" rid="B2-data-07-00120">2</xref>,<xref ref-type="bibr" rid="B24-data-07-00120">24</xref>,<xref ref-type="bibr" rid="B35-data-07-00120">35</xref>] to estimate the Malmquist TFP, Fisher TFP, Fare&#x2013;Primont TFP, or Hicks&#x2013;Moorsteen TFP utilizing data on labor (e.g., NE or PE), capital (e.g., TOE or EQUITY), outputs (e.g., II or TI), profits (e.g., PBT or PAT), and costs (e.g., CC or TC);</p>
+        </list-item>
+        <list-item>
+          <p>The dataset is not only useful for researchers in the fields of business, economics, banking, and finance, but it also provides important information for bank managers or credit-rating institutions;</p>
+        </list-item>
+        <list-item>
+          <p>The amount of data, with up to 644 bank-year observations, is good enough to be used with machine-learning models. Such an extension would be extremely valuable, for example, to predict the performance of the banks or their risks and soundness;</p>
+        </list-item>
+        <list-item>
+          <p>The dataset can be easily extended by adding more data (e.g., for 2022 or later) when they are available, by providing detailed information on the employment structure (e.g., skilled versus unskilled) or bank diversification (e.g., participation in the stock or cryptocurrency markets), or to combine with other datasets on regional- and/or national-level variables, such as GDP, inflation, policy events, COVID-19, and so on.</p>
+        </list-item>
+      </list>
+    </sec>
+  </body>
+  <back>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, T.D.Q.L. and T.N.; methodology and software, D.T.N.; validation, T.D.Q.L.; formal analysis, T.H.H.; investigation, D.T.N.; resources, T.H.H.; data curation, T.H.H.; writing&#x2014;original draft preparation, T.N. and T.D.Q.L.; writing&#x2014;review and editing, T.D.Q.L., S.H.T. and T.N.; visualization and supervision, S.H.T.; project administration, T.D.Q.L.; funding acquisition, T.D.Q.L. and S.H.T. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Institutional Review Board Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Informed Consent Statement</title>
+      <p>Not applicable.</p>
+    </notes>
+    <notes>
+      <title>Data Availability Statement</title>
+      <p>The data presented in this study are available at <uri>https://doi.org/10.7910/DVN/RIWA3B</uri> (accessed on 20 May 2022).</p>
+    </notes>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analysis, or interpretation of the data; in the writing of the manuscript; or in the decision to publish the results.</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-data-07-00120">
+        <label>1.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>World Bank</collab>
+          </person-group>
+          <source>World Development Indicators (WDI)</source>
+          <publisher-name>The World Bank</publisher-name>
+          <publisher-loc>Washington, DC, USA</publisher-loc>
+          <year>2021</year>
+        </element-citation>
+      </ref>
+      <ref id="B2-data-07-00120">
+        <label>2.</label>
+        <element-citation publication-type="thesis">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ngo</surname>
+              <given-names>D.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency of the Banking System in Vietnam under Financial Liberalization</article-title>
+          <source>Ph.D. Thesis</source>
+          <publisher-name>Massey University</publisher-name>
+          <publisher-loc>Palmerston North, New Zealand</publisher-loc>
+          <year>2015</year>
+        </element-citation>
+      </ref>
+      <ref id="B3-data-07-00120">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le</surname>
+              <given-names>P.T.</given-names>
+            </name>
+            <name>
+              <surname>Harvie</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Arjomandi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Borthwick</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Financial liberalisation, bank ownership type and performance in a transition economy: The case of Vietnam</article-title>
+          <source>Pac. Basin Financ. J.</source>
+          <year>2019</year>
+          <volume>57</volume>
+          <fpage>101182</fpage>
+          <pub-id pub-id-type="doi">10.1016/j.pacfin.2019.101182</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-data-07-00120">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title>The interrelationship between liquidity creation and bank capital in Vietnamese banking</article-title>
+          <source>Manag. Financ.</source>
+          <year>2019</year>
+          <volume>45</volume>
+          <fpage>331</fpage>
+          <lpage>347</lpage>
+          <pub-id pub-id-type="doi">10.1108/MF-09-2017-0337</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-data-07-00120">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Matousek</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>T.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency in the Vietnamese banking system: A DEA double bootstrap approach</article-title>
+          <source>Res. Int. Bus. Financ.</source>
+          <year>2016</year>
+          <volume>36</volume>
+          <fpage>96</fpage>
+          <lpage>111</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ribaf.2015.09.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-data-07-00120">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ho</surname>
+              <given-names>T.H.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>D.T.</given-names>
+            </name>
+            <name>
+              <surname>Ngo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>T.D.Q.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency in Vietnamese Banking: A Meta-Regression Analysis Approach</article-title>
+          <source>Int. J. Financ. Stud.</source>
+          <year>2021</year>
+          <volume>9</volume>
+          <elocation-id>41</elocation-id>
+          <pub-id pub-id-type="doi">10.3390/ijfs9030041</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-data-07-00120">
+        <label>7.</label>
+        <element-citation publication-type="gov">
+          <person-group person-group-type="author">
+            <collab>Vietnamese Government</collab>
+          </person-group>
+          <source>Decision No. 254/QD-TTg on Approving the Scheme on &#x201C;Restructuring the Credit Institutions System in the 2011&#x2013;2015 Period&#x201D;</source>
+          <publisher-name>Vietnamese Government</publisher-name>
+          <publisher-loc>Hanoi, Vietnam</publisher-loc>
+          <year>2012</year>
+        </element-citation>
+      </ref>
+      <ref id="B8-data-07-00120">
+        <label>8.</label>
+        <element-citation publication-type="gov">
+          <person-group person-group-type="author">
+            <collab>SBV</collab>
+          </person-group>
+          <article-title>The State Bank of Vietnam&#x2014;System of Credit Institutions</article-title>
+          <comment>Available online: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sbv.gov.vn/webcenter/portal/en/home/fm/socins" ext-link-type="uri">https://www.sbv.gov.vn/webcenter/portal/en/home/fm/socins</ext-link></comment>
+          <date-in-citation content-type="access-date" iso-8601-date="2022-04-12">(accessed on 12 April 2022)</date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="B9-data-07-00120">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berger</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>Humphrey</surname>
+              <given-names>D.B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency of financial institutions: International survey and directions for future research</article-title>
+          <source>Eur. J. Oper. Res.</source>
+          <year>1997</year>
+          <volume>98</volume>
+          <fpage>175</fpage>
+          <lpage>212</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0377-2217(96)00342-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-data-07-00120">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paradi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>A survey on bank branch efficiency and performance research with data envelopment analysis</article-title>
+          <source>OMEGA</source>
+          <year>2013</year>
+          <volume>41</volume>
+          <fpage>61</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.omega.2011.08.010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-data-07-00120">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sealey</surname>
+              <given-names>C.W.</given-names>
+            </name>
+            <name>
+              <surname>Lindley</surname>
+              <given-names>J.T.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inputs, outputs, and a theory of production and cost at depository financial institutions</article-title>
+          <source>J. Financ.</source>
+          <year>1977</year>
+          <volume>32</volume>
+          <fpage>1251</fpage>
+          <lpage>1266</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1540-6261.1977.tb03324.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-data-07-00120">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Athanasoglou</surname>
+              <given-names>P.P.</given-names>
+            </name>
+            <name>
+              <surname>Brissimis</surname>
+              <given-names>S.N.</given-names>
+            </name>
+            <name>
+              <surname>Delis</surname>
+              <given-names>M.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bank-specific, industry-specific and macroeconomic determinants of bank profitability</article-title>
+          <source>J. Int. Financ. Mark. Inst. Money</source>
+          <year>2008</year>
+          <volume>18</volume>
+          <fpage>121</fpage>
+          <lpage>136</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.intfin.2006.07.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-data-07-00120">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naceur</surname>
+              <given-names>S.B.</given-names>
+            </name>
+            <name>
+              <surname>Goaied</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>The determinants of the Tunisian deposit banks&#x2019; performance</article-title>
+          <source>Appl. Financ. Econ.</source>
+          <year>2001</year>
+          <volume>11</volume>
+          <fpage>317</fpage>
+          <lpage>319</lpage>
+          <pub-id pub-id-type="doi">10.1080/096031001300138717</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-data-07-00120">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berger</surname>
+              <given-names>A.N.</given-names>
+            </name>
+            <name>
+              <surname>Mester</surname>
+              <given-names>L.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>Inside the black box: What explains differences in the efficiencies of financial institutions?</article-title>
+          <source>J. Bank. Financ.</source>
+          <year>1997</year>
+          <volume>21</volume>
+          <fpage>895</fpage>
+          <lpage>947</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0378-4266(97)00010-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-data-07-00120">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Economies of scale and scope at depository financial institutions: A review of the literature</article-title>
+          <source>Econ. Rev.</source>
+          <year>1988</year>
+          <volume>73</volume>
+          <fpage>17</fpage>
+          <lpage>33</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B16-data-07-00120">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Avkiran</surname>
+              <given-names>N.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Association of DEA super-efficiency estimates with financial ratios: Investigating the case for Chinese banks</article-title>
+          <source>OMEGA</source>
+          <year>2011</year>
+          <volume>39</volume>
+          <fpage>323</fpage>
+          <lpage>334</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.omega.2010.08.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-data-07-00120">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Avkiran</surname>
+              <given-names>N.K.</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identifying distress among banks prior to a major crisis using non-oriented super-SBM</article-title>
+          <source>Ann. Oper. Res.</source>
+          <year>2014</year>
+          <volume>217</volume>
+          <fpage>31</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10479-014-1568-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-data-07-00120">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Miller</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Noulas</surname>
+              <given-names>A.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>The technical efficiency of large bank production</article-title>
+          <source>J. Bank. Financ.</source>
+          <year>1996</year>
+          <volume>20</volume>
+          <fpage>495</fpage>
+          <lpage>509</lpage>
+          <pub-id pub-id-type="doi">10.1016/0378-4266(95)00017-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-data-07-00120">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhattacharyya</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lovell</surname>
+              <given-names>C.A.K.</given-names>
+            </name>
+            <name>
+              <surname>Sahay</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of liberalization on the productive efficiency of Indian commercial banks</article-title>
+          <source>Eur. J. Oper. Res.</source>
+          <year>1997</year>
+          <volume>98</volume>
+          <fpage>332</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0377-2217(96)00351-7</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-data-07-00120">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leightner</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <name>
+              <surname>Lovell</surname>
+              <given-names>C.A.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of financial liberalization on the performance of Thai banks</article-title>
+          <source>J. Econ. Bus.</source>
+          <year>1998</year>
+          <volume>50</volume>
+          <fpage>115</fpage>
+          <lpage>131</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0148-6195(97)00073-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-data-07-00120">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sturm</surname>
+              <given-names>J.-E.</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>Foreign bank entry, deregulation and bank efficiency: Lessons from the Australian experience</article-title>
+          <source>J. Bank. Financ.</source>
+          <year>2004</year>
+          <volume>28</volume>
+          <fpage>1775</fpage>
+          <lpage>1799</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jbankfin.2003.06.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-data-07-00120">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ngo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tripe</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>Stochastic cost frontier analysis&#x2014;A sensitivity analysis on cost measures</article-title>
+          <source>Pac. Account. Rev.</source>
+          <year>2016</year>
+          <volume>28</volume>
+          <fpage>401</fpage>
+          <lpage>410</lpage>
+          <pub-id pub-id-type="doi">10.1108/PAR-03-2016-0028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-data-07-00120">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>FDIC</collab>
+          </person-group>
+          <article-title>Uniform financial institutions rating system</article-title>
+          <source>Fed. Regist.</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>67021</fpage>
+          <lpage>67029</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B24-data-07-00120">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lozano-Vivas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pasiouras</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>Bank Productivity Change and Off-Balance-Sheet Activities Across Different Levels of Economic Development</article-title>
+          <source>J. Financ. Serv. Res.</source>
+          <year>2014</year>
+          <volume>46</volume>
+          <fpage>271</fpage>
+          <lpage>294</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10693-013-0181-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-data-07-00120">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lozano-Vivas</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pasiouras</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of non-traditional activities on the estimation of bank efficiency: International evidence</article-title>
+          <source>J. Bank. Financ.</source>
+          <year>2010</year>
+          <volume>34</volume>
+          <fpage>1436</fpage>
+          <lpage>1449</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jbankfin.2010.01.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-data-07-00120">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caves</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Christensen</surname>
+              <given-names>L.R.</given-names>
+            </name>
+            <name>
+              <surname>Diewert</surname>
+              <given-names>W.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>The economic theory of index numbers and the measurement of input, output and productivity</article-title>
+          <source>Econometrica</source>
+          <year>1982</year>
+          <volume>50</volume>
+          <fpage>1393</fpage>
+          <lpage>1414</lpage>
+          <pub-id pub-id-type="doi">10.2307/1913388</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-data-07-00120">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Diewert</surname>
+              <given-names>W.E.</given-names>
+            </name>
+          </person-group>
+          <article-title>Fisher ideal output, input, and productivity indexes revisited</article-title>
+          <source>J. Product. Anal.</source>
+          <year>1992</year>
+          <volume>3</volume>
+          <fpage>211</fpage>
+          <lpage>248</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF00158354</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-data-07-00120">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wooldridge</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>On estimating firm-level production functions using proxy variables to control for unobservables</article-title>
+          <source>Econ. Lett.</source>
+          <year>2009</year>
+          <volume>104</volume>
+          <fpage>112</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.econlet.2009.04.026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-data-07-00120">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rovigatti</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Mollisi</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>Theory and Practice of Total-Factor Productivity Estimation: The Control Function Approach using Stata</article-title>
+          <source>Stata J.</source>
+          <year>2018</year>
+          <volume>18</volume>
+          <fpage>618</fpage>
+          <lpage>662</lpage>
+          <pub-id pub-id-type="doi">10.1177/1536867X1801800307</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-data-07-00120">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fragoudaki</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Giokas</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Glyptou</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>Efficiency and productivity changes in Greek airports during the crisis years 2010&#x2013;2014</article-title>
+          <source>J. Air Transp. Manag.</source>
+          <year>2016</year>
+          <volume>57</volume>
+          <fpage>306</fpage>
+          <lpage>315</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jairtraman.2016.09.003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-data-07-00120">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plastina</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Lence</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Ortiz-Bobea</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>How weather affects the decomposition of total factor productivity in U.S. agriculture</article-title>
+          <source>Agric. Econ.</source>
+          <year>2021</year>
+          <volume>52</volume>
+          <fpage>215</fpage>
+          <lpage>234</lpage>
+          <pub-id pub-id-type="doi">10.1111/agec.12615</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-data-07-00120">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kerstens</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Van de Woestyne</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing Malmquist and Hicks&#x2013;Moorsteen productivity indices: Exploring the impact of unbalanced vs. balanced panel data</article-title>
+          <source>Eur. J. Oper. Res.</source>
+          <year>2014</year>
+          <volume>233</volume>
+          <fpage>749</fpage>
+          <lpage>758</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejor.2013.09.009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-data-07-00120">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>P.A.</given-names>
+            </name>
+            <name>
+              <surname>Simioni</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Productivity and efficiency of Vietnamese banking system: New evidence using F&#xE4;re-Primont index analysis</article-title>
+          <source>Appl. Econ.</source>
+          <year>2015</year>
+          <volume>47</volume>
+          <fpage>4395</fpage>
+          <lpage>4407</lpage>
+          <pub-id pub-id-type="doi">10.1080/00036846.2015.1030565</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-data-07-00120">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>F&#xE4;re</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Grosskopf</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Norris</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Z.</given-names>
+            </name>
+          </person-group>
+          <article-title>Productivity growth, technical progress, and efficiency change in industrialized countries</article-title>
+          <source>Am. Econ. Rev.</source>
+          <year>1994</year>
+          <volume>84</volume>
+          <fpage>66</fpage>
+          <lpage>83</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B35-data-07-00120">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ngo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Tran</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Sources of the performance of manufacturing firms: Evidence from Vietnam</article-title>
+          <source>Post-Communist Econ.</source>
+          <year>2019</year>
+          <volume>31</volume>
+          <fpage>790</fpage>
+          <lpage>804</lpage>
+          <pub-id pub-id-type="doi">10.1080/14631377.2019.1607129</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Tables</title>
+      <table-wrap id="data-07-00120-t001" position="float">
+        <object-id pub-id-type="pii">data-07-00120-t001_Table 1</object-id>
+        <label>Table 1</label>
+        <caption>
+          <p>Data availability of the dataset.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">No.</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Bank</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Code</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Ownership</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">
+                <italic>n</italic>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">An Binh Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ABB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">2</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Asia Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ACB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Bank for Agriculture and Rural Development</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">AGB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SOCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Joint Stock Commercial Bank for Investment and Development of Vietnam</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">BIDV</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">5</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Bac A Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">BAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Bao Viet Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">BVB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">7</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Construction Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">CB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SOCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">8</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Joint Stock Commercial Bank of Industry and Trade</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">CTG</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Dong A Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">DAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">10</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Export Import Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">EIB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">First Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">FCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Great Asia Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">GAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">6</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">13</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Global Petro Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">GPB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SOCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">3</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Hanoi Building Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">HBB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">15</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Ho Chi Minh City Development Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">HDB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">16</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">HSBC Bank (Vietnam) Limited</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">HSBC</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">FOCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Indovina Bank Ltd.</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">IVB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">12</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Kien Long Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">KLB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">19</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Lien Viet Post Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">LVB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Military Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">MB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">21</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Maritime Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">MSB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">22</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Mekong Development Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">MDB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">23</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Mekong Housing Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">MHB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">24</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Nam A Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">NAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">25</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">National Citizen Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">NCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">26</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Ocean Commercial One Member Limited Liability Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">OB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SOCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">8</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">27</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Orient Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">OCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">28</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Petrolimex Group Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PGB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">29</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Southern Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PNB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">9</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">30</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Public Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PVB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">8</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">31</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Saigon Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">13</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">32</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">South East Asia Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SEAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">33</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Saigon Bank for Industry and Trade</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SGB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">19</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">34</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Saigon&#x2014;Hanoi Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">SHB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">16</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">35</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Saigon Thuong Tin Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">STB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">36</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Technological and Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">TCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">37</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Tin Nghia Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">TNB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">4</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">38</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Tien Phong Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">TPB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">14</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">39</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Viet A Joint Stock Commercial Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VAB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">40</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Bank for Social Policies</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VBSP</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">41</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Joint Stock Commercial Bank for Foreign Trade of Vietnam</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">42</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Viet Capital Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VCPB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">18</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">43</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam International Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VIB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">17</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">44</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Vietnam Commercial Joint Stock Bank for Private Enterprise</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">VPB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">20</td>
+            </tr>
+            <tr>
+              <td align="center" valign="middle" style="border-bottom:solid thin">45</td>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Western Commercial Joint Stock Bank</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">WEB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">JSCB</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">11</td>
+            </tr>
+            <tr>
+              <td colspan="4" align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>Total</bold>
+              </td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">
+                <bold>644</bold>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>Notes: The banks&#x2019; codes were defined by the authors. SOCB: state-owned commercial bank; JSCB: joint-stock commercial bank; PB: policy bank; FOCB: foreign-owned commercial bank. <italic>n</italic> stands for the number of bank-year observations. <bold>Source:</bold> Authors&#x2019; calculation.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <table-wrap id="data-07-00120-t002" position="float">
+        <object-id pub-id-type="pii">data-07-00120-t002_Table 2</object-id>
+        <label>Table 2</label>
+        <caption>
+          <p>List of variables.</p>
+        </caption>
+        <table>
+          <thead>
+            <tr>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Variable</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Code</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Observations</th>
+              <th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin">Mean</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="3" align="left" valign="middle">
+                <italic>Commonly used in the Production Approach</italic>
+              </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Number of Employees (person)</td>
+              <td align="center" valign="middle">NE</td>
+              <td align="center" valign="middle">468</td>
+              <td align="center" valign="middle">6724</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Number of Branches (unit)</td>
+              <td align="center" valign="middle">NB</td>
+              <td align="center" valign="middle">433</td>
+              <td align="center" valign="middle">1721</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Labour Productivity (VND million)</td>
+              <td align="center" valign="middle">LPROD</td>
+              <td align="center" valign="middle">466</td>
+              <td align="center" valign="middle">420</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Network Productivity (VND million)</td>
+              <td align="center" valign="middle">NPROD</td>
+              <td align="center" valign="middle">431</td>
+              <td align="center" valign="middle">10,543</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Employees Ratio</td>
+              <td align="center" valign="middle">ERATIO</td>
+              <td align="center" valign="middle">468</td>
+              <td align="center" valign="middle">0.04</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Branches Ratio</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">BRATIO</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">433</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.05</td>
+            </tr>
+            <tr>
+              <td colspan="3" align="left" valign="middle">
+                <italic>Commonly used in the Intermediation Approach</italic>
+              </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Deposits (VND million)</td>
+              <td align="center" valign="middle">DEPOSITS</td>
+              <td align="center" valign="middle">631</td>
+              <td align="center" valign="middle">107,396,618</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Shareholder&#x2019;s Equity (VND million)</td>
+              <td align="center" valign="middle">EQUITY</td>
+              <td align="center" valign="middle">631</td>
+              <td align="center" valign="middle">11,178,170</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Loans (VND million)</td>
+              <td align="center" valign="middle">LOANS</td>
+              <td align="center" valign="middle">630</td>
+              <td align="center" valign="middle">98,572,641</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Loan Loss Provisions (VND million) </td>
+              <td align="center" valign="middle">LLP</td>
+              <td align="center" valign="middle">603</td>
+              <td align="center" valign="middle">1,592,868</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Nonperforming Loans (VND million)</td>
+              <td align="center" valign="middle">NPL</td>
+              <td align="center" valign="middle">577</td>
+              <td align="center" valign="middle">1,887,911</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Fixed Assets (VND million)</td>
+              <td align="center" valign="middle">FASSETS</td>
+              <td align="center" valign="middle">629</td>
+              <td align="center" valign="middle">1,467,437</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Other Earning Assets (VND million)</td>
+              <td align="center" valign="middle">EASSETS</td>
+              <td align="center" valign="middle">626</td>
+              <td align="center" valign="middle">54,117,927</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Assets (VND million)</td>
+              <td align="center" valign="middle">TASSETS</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">154,301,833</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total-Deposits Ratio</td>
+              <td align="center" valign="middle">DEPORATIO</td>
+              <td align="center" valign="middle">631</td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total-Loans Ratio</td>
+              <td align="center" valign="middle">LOANRATIO</td>
+              <td align="center" valign="middle">630</td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Total-Assets Ratio</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">ASSETRATIO</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">627</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.03</td>
+            </tr>
+            <tr>
+              <td colspan="3" align="left" valign="middle">
+                <italic>Commonly used in the Core-Profit-Model (CPM) Approach</italic>
+              </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Interest Expenses (VND million)</td>
+              <td align="center" valign="middle">IE</td>
+              <td align="center" valign="middle">626</td>
+              <td align="center" valign="middle">6,667,943</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Noninterest Expenses (VND million)</td>
+              <td align="center" valign="middle">NIE</td>
+              <td align="center" valign="middle">625</td>
+              <td align="center" valign="middle">2,682,819</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Personnel Expenses (VND million)</td>
+              <td align="center" valign="middle">PE</td>
+              <td align="center" valign="middle">497</td>
+              <td align="center" valign="middle">1,455,288</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Occupancy Expenses (VND million)</td>
+              <td align="center" valign="middle">OE</td>
+              <td align="center" valign="middle">492</td>
+              <td align="center" valign="middle">235,741</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Other Expenses (VND million)</td>
+              <td align="center" valign="middle">OTE</td>
+              <td align="center" valign="middle">499</td>
+              <td align="center" valign="middle">1,059,682</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Operating Expenses (VND million)</td>
+              <td align="center" valign="middle">TOE</td>
+              <td align="center" valign="middle">506</td>
+              <td align="center" valign="middle">2,703,645</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Core Cost (VND million)</td>
+              <td align="center" valign="middle">CC</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">7,995,845</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Cost (VND million)</td>
+              <td align="center" valign="middle">TC</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">9,331,570</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Core-Cost Ratio</td>
+              <td align="center" valign="middle">CCRATIO</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total-Cost Ratio</td>
+              <td align="center" valign="middle">TCRATIO</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">0.03</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Interest Incomes (VND million)</td>
+              <td align="center" valign="middle">II</td>
+              <td align="center" valign="middle">626</td>
+              <td align="center" valign="middle">10,952,689</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Noninterest Income (VND million)</td>
+              <td align="center" valign="middle">NI</td>
+              <td align="center" valign="middle">618</td>
+              <td align="center" valign="middle">1,770,242</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Other Incomes (VND million)</td>
+              <td align="center" valign="middle">OI</td>
+              <td align="center" valign="middle">620</td>
+              <td align="center" valign="middle">&#x2212;1,340,610</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Total Income (VND million)</td>
+              <td align="center" valign="middle">TI</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">11,354,409</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Total-Income Ratio</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">TIRATIO</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">627</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">0.03</td>
+            </tr>
+            <tr>
+              <td colspan="3" align="left" valign="middle">
+                <italic>Commonly used in the Ratio (CAMELS) Approach</italic>
+              </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Equity Over Total Assets</td>
+              <td align="center" valign="middle">ETA</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">11.53</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Equity Over Total Deposits</td>
+              <td align="center" valign="middle">ETD</td>
+              <td align="center" valign="middle">631</td>
+              <td align="center" valign="middle">41.49</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Nonperforming-Loans Ratio</td>
+              <td align="center" valign="middle">NPLRATIO</td>
+              <td align="center" valign="middle">577</td>
+              <td align="center" valign="middle">1.98</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Loan-Loss-Provisions Ratio</td>
+              <td align="center" valign="middle">LLPRATIO</td>
+              <td align="center" valign="middle">603</td>
+              <td align="center" valign="middle">1.31</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Returns Over Assets</td>
+              <td align="center" valign="middle">ROA</td>
+              <td align="center" valign="middle">623</td>
+              <td align="center" valign="middle">1.27</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Returns Over Equity</td>
+              <td align="center" valign="middle">ROE</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">10.74</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Net Interest Margin</td>
+              <td align="center" valign="middle">NIM</td>
+              <td align="center" valign="middle">622</td>
+              <td align="center" valign="middle">13.04</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Cost&#x2013;Income Ratios</td>
+              <td align="center" valign="middle">CIR</td>
+              <td align="center" valign="middle">627</td>
+              <td align="center" valign="middle">79.18</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Liquid Assets Over Total Assets</td>
+              <td align="center" valign="middle">LTA</td>
+              <td align="center" valign="middle">626</td>
+              <td align="center" valign="middle">42.04</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Liquid Assets Over Total Deposits</td>
+              <td align="center" valign="middle">LTD</td>
+              <td align="center" valign="middle">626</td>
+              <td align="center" valign="middle">103.19</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Cumulative Gaps Over Total Assets</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">GTA</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">631</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">28.13</td>
+            </tr>
+            <tr>
+              <td colspan="3" align="left" valign="middle">
+                <italic>Additional Information</italic>
+              </td>
+              <td align="center" valign="middle"> </td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Off-Balance-Sheet Activities (VND million)</td>
+              <td align="center" valign="middle">OBS</td>
+              <td align="center" valign="middle">417</td>
+              <td align="center" valign="middle">35,140,331</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle">Profits Before Tax (VND million)</td>
+              <td align="center" valign="middle">PBT</td>
+              <td align="center" valign="middle">625</td>
+              <td align="center" valign="middle">2,029,313</td>
+            </tr>
+            <tr>
+              <td align="left" valign="middle" style="border-bottom:solid thin">Profits After Tax (VND million)</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">PAT</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">627</td>
+              <td align="center" valign="middle" style="border-bottom:solid thin">1,652,135</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><bold>Source:</bold> Authors&#x2019; calculation.</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <fn-group>
+      <fn>
+        <p><bold>Publisher&#x2019;s Note:</bold> MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+  </back>
+</article>
